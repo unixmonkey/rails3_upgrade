@@ -1,0 +1,7 @@
+{
+  "name": "Rails 3 Upgrade",
+  "description": "How to take the old and busted to the new hotness",
+  "sections": [
+    {"section":"rails3_upgrade"}
+  ]
+}
